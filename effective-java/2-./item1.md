@@ -79,3 +79,7 @@ api 설명에 명확히 드러나지 않기 때문에 api 문서화를 잘해두
 * getType
 * newType
 * type
+
+# 적용 코드
+
+https://github.com/guswns3371/CoconutSpringBoot/pull/9
