@@ -234,7 +234,6 @@ public abstract class Pizza {
     public enum Topping {HAM, MUSHROOM, ONION, PEPPER, SAUSAGE}
     private Set<Topping> toppings;
 }
-
 ```
 {% endtab %}
 
@@ -277,3 +276,7 @@ public class Main {
 ```
 {% endtab %}
 {% endtabs %}
+
+## 적용 코드
+
+{% embed url="https://github.com/guswns3371/CoconutSpringBoot/pull/10" %}
